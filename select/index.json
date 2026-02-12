@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハイドレート",
+  "base_artist": "sajou no hana",
+  "createdAt": "2026-02-12T12:37:49.798074Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイドレート",
+      "artist": "sajou no hana",
+      "has_synced": false,
+      "path": "select/pl_01_ハイドレート_sajou_no_hana.txt"
+    }
+  ]
+}
